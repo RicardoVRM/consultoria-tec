@@ -1,14 +1,19 @@
 package com.rvrm.consultoria_tec.entity;
 
 import jakarta.persistence.*;
-import lombok.Data;
+import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
 
 import java.time.LocalDateTime;
 
 @Data
+@Setter
+@Getter
 @Entity
+@AllArgsConstructor
+@NoArgsConstructor
+@Table(name = "usuario")
 public class UsuarioEntity {
 
     @Id
