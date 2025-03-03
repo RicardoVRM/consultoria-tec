@@ -1,7 +1,7 @@
-package com.rvrm.consultoria_tec.controllers;
+package com.rvrm.consultoria_tec.controller;
 
 import com.rvrm.consultoria_tec.dto.UsuarioDTO;
-import com.rvrm.consultoria_tec.services.UsuarioService;
+import com.rvrm.consultoria_tec.service.UsuarioService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

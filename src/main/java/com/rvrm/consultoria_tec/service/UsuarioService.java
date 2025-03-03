@@ -1,9 +1,8 @@
-package com.rvrm.consultoria_tec.services;
+package com.rvrm.consultoria_tec.service;
 
 import com.rvrm.consultoria_tec.dto.UsuarioDTO;
 import com.rvrm.consultoria_tec.entity.UsuarioEntity;
 import com.rvrm.consultoria_tec.repository.UsuarioRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;
