@@ -9,4 +9,4 @@
 
 
 # Resumo do projeto
-Projeto em andamento, visando reaalizar a contratação de serviços  entre Cliente e Fornecedor.
+Projeto em andamento, visando realizar a contratação de serviços  entre Cliente e Fornecedor.
